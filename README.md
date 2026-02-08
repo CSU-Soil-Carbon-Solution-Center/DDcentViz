@@ -126,7 +126,7 @@ DDcentViz is under active development. The initial focus is on:
 - Additional narrative modules (soil water, nitrogen cycling) and experiment comparison features are planned.
 
 ## License
-MIT 
+MIT: Copyright (c) 2026 CSU - Soil Carbon Solution Center
 
 ## Acknowledgements
 Developed by the Ecosystem Modeling and Data Consortium at Colorado State University as part of ongoing ecosystem modeling and data integration efforts supporting DayCent training, research, and applied decision support.
